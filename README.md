@@ -1,1 +1,3 @@
 # weather app
+
+This PHP-powered web application serves as a straightforward **weather lookup tool**, allowing users to quickly retrieve current weather conditions for any specified city. It leverages the **OpenWeatherMap API** to fetch comprehensive data, including temperature (converted to Celsius), wind speed, humidity, visibility, and atmospheric pressure. The user interface, built with **Bootstrap 4**, provides a clean and responsive design, making it easy for users to input a city name and view the results in a clear, organized format. Beyond simply displaying data, the application also includes basic input validation to ensure a city name is provided before making an API call, enhancing its usability.
